@@ -1,0 +1,15 @@
+{
+  "version": "0.2-20240530",
+  "time": "2024-05-30 19:26:23",
+  "desc": "",
+  "distributions": [
+    {
+      "os": "darwin-arch64",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.2-20240530/feat-annual-0.2.3.pkg"
+    },
+    {
+      "os": "darwin-amd64",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.2-20240530/feat-annual-0.2.3.pkg"
+    }
+  ]
+}
