@@ -1,0 +1,17 @@
+{
+  "version": "0.2-20240530",
+  "time": "2024-05-30 19:26:23",
+  "desc": "",
+  "distributions": {
+    "macos-aarch64": {
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.2-20240530/feat-annual-0.2.3.pkg",
+      "size": 342435424,
+      "md5": "FSFGE32DA5435DSF"
+    },
+    "macos-amd64": {
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.2-20240530/feat-annual-0.2.3.pkg",
+      "size": 342435424,
+      "md5": "FSFGE32DA5435DSF"
+    }
+  }
+}
