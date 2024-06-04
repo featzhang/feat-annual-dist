@@ -1,15 +1,15 @@
 {
-  "version": "0.2.3-202406032300",
+  "version": "0.2.3-202406050010",
   "time": "2024-06-02 14:24:00",
   "desc": "Support update tool",
   "distributions": {
     "macos-aarch64": {
-      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.3-202406032330/feat-annual-0.2.3.pkg",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.3-202406050010/feat-annual-0.2.3.pkg",
       "size": 342435424,
       "md5": "FSFGE32DA5435DSF"
     },
     "macos-amd64": {
-      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.3-202406032330/feat-annual-0.2.3.pkg",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/release-0.2.3-202406050010/feat-annual-0.2.3.pkg",
       "size": 342435424,
       "md5": "FSFGE32DA5435DSF"
     }
