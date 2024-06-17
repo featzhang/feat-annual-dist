@@ -1,10 +1,10 @@
 {
-  "version": "0.2.4-406161",
+  "version": "0.2.4.46171",
   "time": "2024-06-16 14:24:00",
   "desc": "Support update tool",
   "distributions": {
     "macos-aarch64": {
-      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-406161/feat-annual-0.2.4.pkg",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4.46171/feat-annual-0.2.4.pkg",
       "size": 342435424,
       "md5": "FSFGE32DA5435DSF"
     },
