@@ -4,7 +4,7 @@
   "desc": "Support update tool",
   "distributions": {
     "macos-aarch64": {
-      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4A294/FeatAnnual-0.2.4-4A294-arm64-jvm.pkg",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4A294/FeatAnnual-0.2.4-4A294-arm64-jvm.dmg",
       "size": 342435424,
       "md5": "FSFGE32DA5435DSF"
     },
