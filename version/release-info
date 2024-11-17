@@ -1,4 +1,4 @@
-version=0.2.4-4B081
+version=0.2.4-4B171
 release-time=2024-11-16 22:28:00
 changes=Support update tool
 dist-macos-aarch64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4B171/FeatAnnual-0.2.4-4B171-aarch64-jvm.dmg
