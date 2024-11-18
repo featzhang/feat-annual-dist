@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4-4B081",
+  "version": "0.2.4-4B181",
   "time": "2024-06-16 14:24:00",
   "desc": "Support update tool",
   "distributions": {
@@ -9,7 +9,7 @@
       "md5": "FSFGE32DA5435DSF"
     },
     "macos-x86_64": {
-      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4A294/FeatAnnual-0.2.4-4A294-x86_64-jvm.dmg",
+      "url": "https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4B181/FeatAnnual-0.2.4-4B181-x86_64-jvm.dmg",
       "size": 342435424,
       "md5": "FSFGE32DA5435DSF"
     }
