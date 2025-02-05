@@ -1,7 +1,7 @@
 version=0.2.4-52051
 release-time=2024-11-16 22:28:00
 changes=Support update tool
-dist-macos-arm64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4B171/FeatAnnual-0.2.4-4B171-aarch64-jvm.dmg
+dist-macos-arm64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-52051/FeatAnnual-0.2.4-52051-arm64-jvm.dmg
 dist-macos-arm64-size=80717874
 dist-macos-arm64-version=0.2.4-52051
 dist-macos-arm64-md5=b8b7695ac132081b6f865a791f2ca5dc
