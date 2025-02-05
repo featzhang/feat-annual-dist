@@ -5,7 +5,6 @@ dist-macos-aarch64-url=https://github.com/featzhang/feat-annual-dist/releases/do
 dist-macos-aarch64-size=80717874
 dist-macos-aarch64-version=0.2.4-52051
 dist-macos-aarch64-md5=b8b7695ac132081b6f865a791f2ca5dc
-
 dist-macos-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-4B181/FeatAnnual-0.2.4-4B181-x86_64-jvm.dmg
 dist-macos-x86_64-size=81872623
 dist-macos-x86_64-version=0.2.4-52051
