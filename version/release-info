@@ -15,3 +15,7 @@ dist-macos-x86_64-md5=f79c976157fc9c3fca3876f394a9de78
 dist-macos-x86_64-time=2025-02-11T12:44:10
 
 
+dist-linux-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-52111/FeatAnnual-0.2.4-52111-x86_64-jvm.dmg
+dist-linux-x86_64-time=2025-02-11T12:49:00
+dist-linux-x86_64-size=70M
+dist-linux-x86_64-md5=18663146d500e4e8ae2eeb656463add0
