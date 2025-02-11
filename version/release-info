@@ -1,13 +1,17 @@
 version=0.2.4-52111
 release-time=2024-11-16 22:28:00
 changes=Support update tool
+
 dist-macos-aarch64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-52111/FeatAnnual-0.2.4-52111-aarch64-jvm.dmg
 dist-macos-aarch64-size=80M
 dist-macos-aarch64-version=0.2.4-52101
 dist-macos-aarch64-md5=0fb118eb38b4ba7ae2e4423e7968a32c
+dist-macos-aarch64-time=2025-02-11T12:40:07
+
 dist-macos-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-52111/FeatAnnual-0.2.4-52111-x86_64-jvm.dmg
 dist-macos-x86_64-size=78M
 dist-macos-x86_64-version=0.2.4-52101
 dist-macos-x86_64-md5=f79c976157fc9c3fca3876f394a9de78
-dist-macos-aarch64-time=2025-02-11T12:40:07
 dist-macos-x86_64-time=2025-02-11T12:44:10
+
+
