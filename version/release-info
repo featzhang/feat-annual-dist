@@ -11,10 +11,10 @@ dist-macos-x86_64-version=0.2.4-52101
 dist-macos-x86_64-md5=f79c976157fc9c3fca3876f394a9de78
 
 
-dist-linux-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-54203/FeatAnnual-0.2.4-54203-x86_64-jvm.dmg
-dist-linux-x86_64-md5=e10e7c1011df8a15343ee5dff6067ca5
+dist-linux-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-54211/FeatAnnual-0.2.4-54211-x86_64-jvm.dmg
+dist-linux-x86_64-md5=53e571ab34c68e1907c3cfb7cd24ff80
 
 dist-macos-aarch64-size=157792
 dist-linux-x86_64-size=71484
 dist-macos-aarch64-time=2025-04-21T09:18:06
-dist-linux-x86_64-time=2025-04-20T16:58:23
+dist-linux-x86_64-time=2025-04-21T09:38:32
