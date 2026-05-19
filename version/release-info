@@ -1,10 +1,10 @@
-version=0.2.6-65192
-release-time=2026-05-19 19:00:06
+version=0.2.6-65193
+release-time=2026-05-19 22:07:52
 changes=Support update tool
 
-dist-macos-aarch64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.6-65192/FeatAnnual-0.2.6-65192-aarch64-jvm.dmg
-dist-macos-aarch64-version=0.2.6-65192
-dist-macos-aarch64-md5=a0e184691b02f49f621a89bb62ab755b
+dist-macos-aarch64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.6-65193/FeatAnnual-0.2.6-65193-aarch64-jvm.dmg
+dist-macos-aarch64-version=0.2.6-65193
+dist-macos-aarch64-md5=19e90f2198dab7dfa64ad8ada7527bc9
 
 dist-macos-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.6-64181/FeatAnnual-0.2.6-64181-x86_64-jvm.dmg
 dist-macos-x86_64-version=0.2.6-64181
@@ -14,9 +14,9 @@ dist-macos-x86_64-md5=5acec65bd0b2c7c5300f5467b80155f6
 dist-linux-x86_64-url=https://github.com/featzhang/feat-annual-dist/releases/download/0.2.4-57242/FeatAnnual-0.2.4-57242-x86_64-jvm.dmg
 dist-linux-x86_64-md5=387d8070afa31f867aa629471e000568
 
-dist-macos-aarch64-size=164304
+dist-macos-aarch64-size=164312
 dist-linux-x86_64-size=72052
-dist-macos-aarch64-time=2026-05-19T19:00:04
+dist-macos-aarch64-time=2026-05-19T22:07:51
 dist-linux-x86_64-time=2025-07-24T22:04:56
 dist-macos-x86_64-time=2026-04-18T19:51:47
 dist-macos-x86_64-size=229384
